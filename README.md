@@ -4,7 +4,7 @@ An end-to-end system: Micrograph Image → Grain Size (ASTM E112) → Yield Stre
 <img width="1916" height="906" alt="Screenshot 2026-08-27 072442" src="https://github.com/user-attachments/assets/1d1aa296-dc77-4af7-af28-7c86793929c3" />
 <img width="1908" height="963" alt="Screenshot 2026-08-27 072425" src="https://github.com/user-attachments/assets/e54ed8f0-a251-47df-abc0-e6a8346b999c" />
 
-## Details
+## Details about project 
 
 <img width="858" height="415" alt="image" src="https://github.com/user-attachments/assets/ec735d28-b992-4889-af79-4ccbab76d253" />
 <img width="882" height="785" alt="image" src="https://github.com/user-attachments/assets/5a53ee72-2da0-469b-a19b-4a4fe9881cff" />
