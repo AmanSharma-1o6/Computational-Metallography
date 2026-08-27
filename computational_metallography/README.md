@@ -13,5 +13,3 @@ relationship and an XGBoost model trained on chemistry + microstructure features
 - 🧪 Dual prediction: Hall-Petch linear fit vs XGBoost (chemistry-aware)
 - ➕ Human-in-the-loop data collection: append validated samples via UI
 - 🔄 Controlled retraining with before/after MAE quality metrics
-
-## 🗂️ Project Structure
